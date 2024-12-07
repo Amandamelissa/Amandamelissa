@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey! im a 15yo programmer. im currently learning python. I pretend to be a front-end dev!<br>
+hey! im a 16yo programmer. im currently learning python. I pretend to be a front-end dev!<br>
 
 
 ## 🌐 Socials:
