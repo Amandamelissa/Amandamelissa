@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey! im a 16yo programmer. im currently learning js. I pretend to be a front-end dev!<br>
+hey! im a 17yo coder. im currently learning js. I pretend to be a front-end dev!<br>
 
 
 ## 🌐 Socials:
